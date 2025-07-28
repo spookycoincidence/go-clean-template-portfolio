@@ -3,9 +3,9 @@
 
 ## Descripción
 
-Go Clean Template - Task Management API es una **adaptación personal** basada en el proyecto [`evrone/go-clean-template`](https://github.com/evrone/go-clean-template), con el objetivo de mostrar buenas prácticas de arquitectura limpia en el desarrollo de APIs RESTful utilizando Go. Esta versión personalizada incluye una implementación CRUD para una entidad `Task`, así como un endpoint adicional para listar tareas completadas.
+Go Clean Template tiene el objetivo de mostrar buenas prácticas de arquitectura limpia en el desarrollo de APIs RESTful utilizando Go. Esta versión personalizada incluye una implementación CRUD para una entidad `Task`, así como un endpoint adicional para listar tareas completadas.
 
-El código fue modificado con fines educativos y de demostración técnica, sin fines comerciales.
+El código no tiene fines comerciales.
 
 ---
 
