@@ -1,10 +1,6 @@
 
 # Go Clean Template - Task Management API
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/spookycoincidence/go-clean-api)](https://goreportcard.com/report/github.com/spookycoincidence/go-clean-api)
-
----
-
 ## Descripción
 
 Go Clean Template - Task Management API es una **adaptación personal** basada en el proyecto [`evrone/go-clean-template`](https://github.com/evrone/go-clean-template), con el objetivo de mostrar buenas prácticas de arquitectura limpia en el desarrollo de APIs RESTful utilizando Go. Esta versión personalizada incluye una implementación CRUD para una entidad `Task`, así como un endpoint adicional para listar tareas completadas.
